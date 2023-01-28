@@ -1,10 +1,10 @@
-0.0.0.0 *.youtube.com
+0.0.0.0 play.googleapis.com
 0.0.0.0 youtube.com
 0.0.0.0 ytimg.com
-0.0.0.0 *.ytimg.com
+0.0.0.0 youtubei.googleapis.com
 0.0.0.0 ytimg.l.google.com
 0.0.0.0 s.ytimg.com
 0.0.0.0 youtube.l.google.com
 0.0.0.0 googlevideo.com
-0.0.0.0 *.googlevideo.com
+0.0.0.0 googleapis.com
 0.0.0.0 i.google.com
